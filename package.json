@@ -1,0 +1,17 @@
+{
+  "name": "medcontrol-cli",
+  "version": "1.0.0",
+  "description": "Sistema CLI para controle de medicamentos de idosos",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "Emanuelle Almeida",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "jest": "^29.0.0"
+  }
+}
